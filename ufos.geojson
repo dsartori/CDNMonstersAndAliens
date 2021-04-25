@@ -1,0 +1,109 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "Location":"Gander",
+    "Latitude":48.954408,
+    "Longitude":-54.6103488,
+    "Year":1951
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "Location":"Clan Lake",
+    "Latitude":62.9416399,
+    "Longitude":-114.2593755,
+    "Year":1960
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "Location":"Falcon Lake",
+    "Latitude":49.7029942,
+    "Longitude":-95.2432513,
+    "Year":1967
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "Location":"Shag Harbour",
+    "Latitude":43.4986869,
+    "Longitude":-65.69978,
+    "Year":1967
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "Location":"Prince George",
+    "Latitude":53.9170641,
+    "Longitude":-122.7496693,
+    "Year":1969
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "Location":"Montreal",
+    "Latitude":45.5016889,
+    "Longitude":-73.567256,
+    "Year":1990
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "Location":"Harbour Mille",
+    "Latitude":47.580122,
+    "Longitude":-54.884351,
+    "Year":2010
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "Location":"Kensington",
+    "Latitude":46.4368934,
+    "Longitude":-63.6373511,
+    "Year":2014
+    }
+  }
+]
+}

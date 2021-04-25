@@ -1,0 +1,185 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.8131963,48.058231 ]
+    },
+    "properties": {
+    "Location":"Crescent Lake",
+    "Province":"Newfoundland and Labrador",
+    "Monster":"Cressie"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.3352899,44.4635548 ]
+    },
+    "properties": {
+    "Location":"Lake Simcoe",
+    "Province":"Ontario",
+    "Monster":"Igopogo, Kempenfelt Kelly"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.917051,52.6738334 ]
+    },
+    "properties": {
+    "Location":"Lake Manitoba, Lake Winnipegosis",
+    "Province":"Manitoba",
+    "Monster":"Manipogo, Winnipogo"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.940716,47.723087 ]
+    },
+    "properties": {
+    "Location":"Lake Superior",
+    "Province":"Ontario",
+    "Monster":"Mishipeshu"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.4842939,47.3100571 ]
+    },
+    "properties": {
+    "Location":"Lake Temiskaming",
+    "Province":"Ontario",
+    "Monster":"Mugwump"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.5896821,42.9107202 ]
+    },
+    "properties": {
+    "Location":"Muskrat Lake",
+    "Province":"Ontario",
+    "Monster":"Mussie"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.5236098,49.83385 ]
+    },
+    "properties": {
+    "Location":"Okanagan Lake",
+    "Province":"British Columbia",
+    "Monster":"Ogopogo"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.794851,45.1584639 ]
+    },
+    "properties": {
+    "Location":"Lake Utopia",
+    "Province":"New Brunswick",
+    "Monster":"Old Ned"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.087568,61.4517555 ]
+    },
+    "properties": {
+    "Location":"Great Slave Lake",
+    "Province":"Northwest Territories",
+    "Monster":"Ol' Slavey"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -69.2727034,47.4904743 ]
+    },
+    "properties": {
+    "Location":"Lake Pohenegamook",
+    "Province":"Quebec",
+    "Monster":"Ponik"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.940716,47.723087 ]
+    },
+    "properties": {
+    "Location":"Lake Superior",
+    "Province":"Ontario",
+    "Monster":"Pressie"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.4796726,48.4709849 ]
+    },
+    "properties": {
+    "Location":"Thetis Lake",
+    "Province":"British Columbia",
+    "Monster":"Thetis Lake Monster"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.3800905,44.586581 ]
+    },
+    "properties": {
+    "Location":"Lake Champlain",
+    "Province":"Quebec",
+    "Monster":"Champ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.8270669,43.6333482 ]
+    },
+    "properties": {
+    "Location":"Lake Ontario",
+    "Province":"Ontario",
+    "Monster":"Gaasyendietha"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.8270669,43.6333482 ]
+    },
+    "properties": {
+    "Location":"Lake Ontario",
+    "Province":"Ontario",
+    "Monster":"Kingstie"
+    }
+  }
+]
+}
